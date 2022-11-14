@@ -1,0 +1,9 @@
+{
+  "1":{"id":1,"questionText":"Ты потерял память. Принять вызов НЛО?","answersIdList":[2,3],"last":false},
+  "4":{"id":4,"questionText":"Ты принял вызов! Поднимаешься на мостик к капитану?)","answersIdList":[5,6],"last":false},
+  "9":{"id":9,"questionText":"Ты поднялся на мостик. Кто ты?","answersIdList":[8,9],"last":false},
+  "10":{"id":10,"questionText":"Ты отклонил вызов! Поражение!","answersIdList":[],"last":true},
+  "11":{"id":11,"questionText":"Ты не пошел на переговоры! Поражение","answersIdList":[],"last":true},
+  "12":{"id":12,"questionText":"Твою ложь разоблачили! Поражение","answersIdList":[],"last":true},
+  "13":{"id":13,"questionText":"Ты рассказал правду о себе! Тебя вернули домой","answersIdList":[],"last":true},
+}
